@@ -20,7 +20,7 @@ app.use(
     cors({
         origin: [
             "http://localhost:3000",
-            "https://mern-task-app777.onrender.com",
+            "https://eruditio.vercel.app",
         ],
         credentials: true,
     })
